@@ -22,4 +22,4 @@ public class VentanaPrincipal extends JFrame {
         setJMenuBar(menuBar);
     }
 }
-Agregar VentanaPrincipal.java al paquete monitoreo
+
