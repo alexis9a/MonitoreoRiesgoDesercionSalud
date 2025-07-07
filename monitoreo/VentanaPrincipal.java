@@ -23,3 +23,4 @@ public class VentanaPrincipal extends JFrame {
     }
 }
 
+Agregar VentanaPrincipal.java al paquete monitoreo
